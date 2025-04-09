@@ -6,5 +6,12 @@
     <class>entities.Parqueaderos</class>
     <class>entities.Propietarios</class>
     <class>entities.Clientes</class>
+    <class>entities.Conductor</class>
+    <class>entities.Historial</class>
+    <class>entities.Reviews</class>
+    <class>entities.Administrador</class>
+    <class>entities.Parqueadero</class>
+    <class>entities.Reserva</class>
+    <class>entities.Propietario</class>
   </persistence-unit>
 </persistence>
